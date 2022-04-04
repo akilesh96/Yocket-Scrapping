@@ -1,0 +1,10 @@
+ID,Student Name,Masters,Intake,University Name,IELTS,UG Degree,UG Grade Type,UG Grade Score,UG School
+1,Harsh Patel,MSc Computing Science,Fall 2022,"Queen's University, Kingston",7.5,Information Technology,CGPA,8.66,Charotar University of Science and Technology (CHARUSAT)
+2,Oniket Khan,MSc Computing Science,Fall 2021,"Queen's University, Kingston",,Computer Science,CGPA,9.20,unknown
+3,Nn,MSc Computing (Coursework),Fall 2020,"Queen's University, Kingston",8,Computer Science,CGPA,8.23,"Maharashtra Institute Of Technology (MIT), Kothrud"
+4,Devarshi Pandya,MSc Computing Science,Fall 2019,"Queen's University, Kingston",7,Information Technology,CGPA,8.92,C. S. Patel Institute of Technology (CHARUSAT)
+5,Banish Narang,MSc Computing (Coursework),Fall 2018,"Queen's University, Kingston",8,Computer Science,CGPA,9.63,Guru Nanak Dev University
+6,Savitaa Venkat,MSc Computing Science,Fall 2018,"Queen's University, Kingston",,Information Technology,CGPA,8.88,Anna University
+7,Arnab Mallik,MSc Computing Science,Fall 2018,"Queen's University, Kingston",8,Information Technology,CGPA,8.40,RCC Institute of Information Technology
+8,Dev,MSc Computing (Coursework),Fall 2017,"Queen's University, Kingston",,Computer Science,,75.00%,"MPSTME, NMIMS University"
+9,Junaid Jalal,MSc Computing Science,Fall 2017,"Queen's University, Kingston",,Information Technology,,70.00%,MJCET

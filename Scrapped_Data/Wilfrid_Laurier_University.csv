@@ -1,0 +1,43 @@
+ID,Student Name,Masters,Intake,University Name,IELTS,UG Degree,UG Grade Type,UG Grade Score,UG School
+1,Mehul Prajapati,MAC Applied Computing,Fall 2022,Wilfrid Laurier University,,Computer Science,,70%,Ahmedabad University
+2,Abhijit Banerjee,MAC Applied Computing,Fall 2022,Wilfrid Laurier University,7.5,Computer Science,CGPA,8.72,University Of Engineering And Management
+3,User 2022,MAC Applied Computing,Fall 2022,Wilfrid Laurier University,8,Computer Science,CGPA,9.2,ASET
+4,Karansingh Chauhan,MAC Applied Computing,Fall 2022,Wilfrid Laurier University,8,Computer Science,CGPA,8.46,Vishwakarma Gov. Engineering college
+5,Mili,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,,Computer Science,CGPA,8.85,vvp engineering college rajkot
+6,Jatin Bindra,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,,Computer Science,CGPA,8.76,Maharaja Surajmal Institute of Technology
+7,Sai Jaswanth Kumar Kunku,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,7,Computer Science,CGPA,8.74,GITAM University
+8,Taran,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,7.5,Computer Science,CGPA,8.00,Savitribai Phule Pune University (Formerly University of Pune)
+9,Ridham Dave,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,7.5,Computer Science,CGPA,9.31,Vishwakarma Gov. Engineering college
+10,Nikita Patel,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,7,Computer Science,CGPA,9.19,CMR College of Engineering & Technology (CMRK)
+11,Aman Gupta`,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,7,Computer Science,CGPA,8.27,Indus University
+12,Venkata Sarat Saikrishna Adusumalli,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,7,Computer Science,CGPA,7.97,GITAM University
+13,Anirudh Reddy,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,7,Computer Science,CGPA,7.41,GITAM University
+14,Rishabh Garg,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,7,Computer Science,CGPA,8.01,"Chitkara university,Punjab"
+15,Rajat Sharma,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,7,Computer Science,,84.00%,SRM University (Kattankulathur Campus)
+16,Liz James,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,8,Computer Science,CGPA,8.69,Mumbai University
+17,Devesh,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,7,Computer Science,CGPA,8.76,A D Patel Institute of Technology
+18,Aditya Trivedi,MAC Applied Computing,Spring 2021,Wilfrid Laurier University,7.5,Computer Science,CGPA,8.50,C. S. Patel Institute of Technology (CHARUSAT)
+19,Palakh Kanwar,MAC Applied Computing,Spring 2021,Wilfrid Laurier University,7,Computer Science,CGPA,8.76,"Ramrao Adik Institute of Technology,nerul"
+20,Aryan Vohra,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,7.5,Computer Science,,78.00%,"SRM University (Modinagar Campus), Ghaziabad, U.P."
+21,Jaimin Joshi,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,7,Computer Science,CGPA,8.55,Vishwakarma Gov. Engineering college
+22,Indumathi Pushparaj,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,7,Information Technology,,83.20%,Coimbatore Institute of Technology
+23,Akshata Chinta,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,8,Computer Science,CGPA,8.65,GITAM University
+24,Aakash Gangolli,MAC Applied Computing,Spring 2021,Wilfrid Laurier University,8,Electronics and Communication Engineering,CGPA,8.19,"Fr. Conceicao Rodrigues College Of Engineering, Bandra"
+25,Sai Charan,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,7,Computer Science,,75.00%,CMR College of Engineering & Technology (CMRK)
+26,Chetan Aditya,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,7,Computer Science,CGPA,7.50,GITAM University
+27,Anisha Gharat,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,7,Computer Science,CGPA,9.15,Mumbai University
+28,Sowrabha Srinivas,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,7.5,Computer Science,CGPA,9.46,"Sri Jayachamarajendra College Of Engineering, Mysore"
+29,Virothi Nitesh,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,6.5,Computer Science,CGPA,8.70,anil neerukonda institute of technology and sciences
+30,Karan Dave,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,,Information Technology,CGPA,7.60,Mumbai University
+31,Rajat Sharma,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,,Computer Science,CGPA,8.28,"SRM University Delhi-NCR, Sonepat"
+32,Tapas Vashi,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,7,Information Technology,CGPA,8.50,Charotar University Of Science And Technology
+33,Priya Guntupalli,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,7,Computer Science,CGPA,9.38,RVR & JC College of Engineering
+34,Noorjahan Begum Mohammad,MAC Applied Computing,Fall 2021,Wilfrid Laurier University,7,Computer Science,,73.60%,JNTU KAKINADA UNIVERSITY
+35,Harshil Shah,MAC Applied Computing,Fall 2019,Wilfrid Laurier University,6.5,Computer Science,CGPA,8.34,G H Patel College Of Engineering & Technology
+36,Anoy,MAC Applied Computing,Fall 2020,Wilfrid Laurier University,7,Computer Science,CGPA,7.59,andhra university college of engineering
+37,Mounica Reddy,MAC Applied Computing,Fall 2019,Wilfrid Laurier University,8,Electronics and Communication Engineering,,62.00%,KG Reddy College Of Engineering And Technology
+38,Arvind,MAC Applied Computing,Fall 2019,Wilfrid Laurier University,7.5,Computer Science,CGPA,8.78,SRM University (Kattankulathur Campus)
+39,Sai Sukruth,MAC Applied Computing,Fall 2019,Wilfrid Laurier University,7.5,Computer Science,,82.50%,Sreenidhi Institute Of Science And Technology
+40,Souvik Das,MAC Applied Computing,Spring 2020,Wilfrid Laurier University,7,Computer Science,CGPA,8.18,Sathyabama University
+41,Gagandeep Nagpal,MAC Applied Computing,Fall 2019,Wilfrid Laurier University,7.5,Computer Science,,80.80%,guru tegh bahadur institute of technology
+42,Shubam Sachdeva,MAC Applied Computing,Fall 2018,Wilfrid Laurier University,7.5,Computer Science,CGPA,8.27,guru nanak dev university

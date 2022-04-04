@@ -1,0 +1,37 @@
+University of Regina: 29
+Lakehead University: 228
+University of Lethbridge: 1
+University of Waterloo: 33
+University of British Columbia, Okanagan: 4
+Memorial University of Newfoundland: 13
+The University of Western Ontario: 15
+Ryerson University: 1
+McMaster University, Hamilton: 10
+University of Calgary: 6
+Western University: 19
+Acadia University: 4
+McGill University, Montreal: 16
+Concordia University, Montreal: 274
+University of Saskatchewan, Saskatoon: 1
+Queen's University, Kingston: 9
+Concordia University of Edmonton: 3
+University of Northern British Columbia: 1
+University of Winnipeg: 9
+University of New Brunswick: 51
+St. Francis Xavier University: 33
+Dalhousie University: 278
+University of Windsor: 389
+University of Toronto: 28
+Brock University: 1
+Simon Fraser University, Burnaby: 65
+University of Alberta, Edmonton: 38
+Carleton University, Ottawa: 12
+Wilfrid Laurier University: 42
+York University, Toronto: 5
+University of Victoria: 6
+University of Guelph: 1
+University of Ottawa: 50
+The University of British Columbia, Vancouver: 9
+University of Ontario Institute of Technology: 3
+University of Manitoba: 10
+University of Montreal: 19

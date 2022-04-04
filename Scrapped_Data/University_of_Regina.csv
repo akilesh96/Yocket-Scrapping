@@ -1,0 +1,30 @@
+ID,Student Name,Masters,Intake,University Name,IELTS,UG Degree,UG Grade Type,UG Grade Score,UG School
+1,Saidheeraj Chindam,MSc Computer Science,Fall 2020,University of Regina,6.5,Computer Science,CGPA,8.76,snist
+2,Robin Redhu,MSc Computer Science,Fall 2021,University of Regina,7,Computer Science,CGPA,9.05,"Bharati Vidyapeeth College Of Engineering,PUNE"
+3,Vrunda Kakadiya,MSc Computer Science,Fall 2021,University of Regina,7,Computer Science,CGPA,8.45,PARUL INSTITUTE OF ENGINEERING AND TECHNOLOGY
+4,Mansi Patel,MSc Computer Science,Fall 2021,University of Regina,6.5,Computer Science,CGPA,8.08,LDRP-ITR
+5,Virag Vora,MSc Computer Science,Fall 2020,University of Regina,6.5,Computer Science,CGPA,8.50,GANDHINAGAR INSTITUTE OF TECHNOLOGY
+6,Sourav Kumar Singh,MSc Computer Science,Fall 2021,University of Regina,,Computer Science,CGPA,7.90,West Bengal University of Technology
+7,Vicky Patel,MSc Computer Science,Spring 2021,University of Regina,6.5,Computer Science,CGPA,9.24,C. S. Patel Institute of Technology (CHARUSAT)
+8,Binod Paudel,MSc Computer Science,,University of Regina,,,,,
+9,Tejaswini Devireddy,MSc Computer Science,Spring 2021,University of Regina,6.5,Computer Science,CGPA,8.80,Karunya University
+10,Ali Abbasi,MSc Computer Science,Fall 2020,University of Regina,6.5,Computer Science,CGPA,8.25,Isfahan university of technology
+11,Krunal Thummar,MSc Computer Science,Spring 2020,University of Regina,7,Computer Science,CGPA,8.10,bits edu campus
+12,Jay,MSc Computer Science,Spring 2020,University of Regina,,Computer Science,CGPA,8.95,"SVIT,VASAD"
+13,Ravi Raja,MSc Computer Science,Fall 2020,University of Regina,6.5,Telecommunication Engineering,CGPA,8.90,SRM University (Kattankulathur Campus)
+14,Jeet,MSc Computer Science,Spring 2020,University of Regina,8,Information Technology,CGPA,8.34,charusat university
+15,Saptarshi Dutta Gupta,MSc Computer Science,Fall 2019,University of Regina,8,Computer Science,CGPA,8.91,PES UNIVERSITY
+16,Nannapaneni Deepak,MSc Computer Science,Fall 2019,University of Regina,7,Information Technology,CGPA,9.08,RVR & JC College of Engineering
+17,Hitesh Bhatia,MSc Computer Science,Spring 2019,University of Regina,6.5,Computer Science,CGPA,8.14,university of Regina
+18,Sharmila Thirumalai,MSc Computer Science,Spring 2019,University of Regina,7.5,Computer Science,CGPA,8.24,R.M.D Engineering College
+19,Jasbir Singh,MSc Computer Science,Fall 2018,University of Regina,7.5,Computer Science,CGPA,8.06,guru nanak dev university
+20,Gunjan,MSc Computer Science,Fall 2018,University of Regina,7,Computer Science,,75.00%,LDRP-ITR
+21,Charles Patel,MSc Computer Science,Fall 2018,University of Regina,6.5,Computer Science,CGPA,8.17,"Sardar Vallabhbhai Institute of Technology (SVIT), Vasad"
+22,Pankaj,MSc Computer Science,Fall 2018,University of Regina,6.5,Computer Science,CGPA,7.90,Jain University
+23,Anish Potnuru,MSc Computer Science,Fall 2018,University of Regina,6.5,Information Technology,CGPA,8.13,anil neerukonda institute of technology and sciences
+24,Krunal Nagoriya,MSc Computer Science,Fall 2018,University of Regina,6.5,Information Technology,CGPA,8.34,A.D.Patel Institute of Technology
+25,Sudheer Nimmagadda,MSc Computer Science,Fall 2018,University of Regina,6.5,Computer Science,,85.84%,RVR & JC College of Engineering
+26,Prashant Italiya,MSc Computer Science,Fall 2018,University of Regina,7.5,Information Technology,CGPA,8.07,Gujarat Technological University
+27,Jinesh,MSc Computer Science,Spring 2018,University of Regina,,,,,
+28,Vishal,MSc Computer Science,Fall 2017,University of Regina,7,Information Technology,CGPA,7.11,"Shree LR Tiwari College Of Engineering, Mira Road, Mumbai"
+29,Shivkumar Jaiswal,MSc Computer Science,Fall 2017,University of Regina,8,Information Technology,,63.70%,"Shree LR Tiwari College Of Engineering, Mira Road"

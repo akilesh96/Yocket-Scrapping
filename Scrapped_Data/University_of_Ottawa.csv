@@ -1,0 +1,51 @@
+ID,Student Name,Masters,Intake,University Name,IELTS,UG Degree,UG Grade Type,UG Grade Score,UG School
+1,Siddhant Tiwari,MCS Computer Science,Fall 2022,University of Ottawa,8,Computer Science,CGPA,9.3,SRM University (Kattankulathur Campus)
+2,Snehal Bhole,MCS Computer Science (Applied Artificial Intelligence),Fall 2022,University of Ottawa,7.5,Computer Engineering,CGPA,9.27,"Ramrao Adik Institute of Technology (RAIT), Nerul"
+3,Saket Dawgotra,MCS Computer Science (Applied Artificial Intelligence),Fall 2020,University of Ottawa,7,Computer Science,CGPA,8.40,"Sinhgad College Of Engineering, Vadgaon"
+4,Maheedhar Vundela,MCS Computer Science,Fall 2022,University of Ottawa,7,Computer Science,,88.2%,SRM University (Kattankulathur Campus)
+5,Inderpartap Cheema,MCS Computer Science,Fall 2019,University of Ottawa,7.5,Computer Science,CGPA,8.40,Vellore Institute of Technology (VIT University)
+6,Himakar Maddipati,MCS Computer Science (Applied Artificial Intelligence),Fall 2022,University of Ottawa,7.5,Computer Science,CGPA,8.58,Vr Siddhartha Engg College
+7,Balasubramanian Chandrasekar,MCS Computer Science,Fall 2021,University of Ottawa,8,Computer Science,CGPA,9.12,SRM
+8,Gagan Shetty,MCS Computer Science,Fall 2022,University of Ottawa,,Computer Science,CGPA,9.20,MS Ramaiah Institute Of Techniology
+9,Anushree Kulai,MCS Computer Science,Fall 2021,University of Ottawa,8,Information Technology,,86.00%,"Sardar Patel Institute Of Technology (SPIT), Andheri"
+10,Honey Patel,MCS Computer Science,Fall 2021,University of Ottawa,7,Computer Science,CGPA,9.80,C. K. Pithawala College Of Engineering And Technology
+11,Deepank Kartikey,MCS Computer Science,Fall 2021,University of Ottawa,7.5,Information Technology,CGPA,9.27,Vellore Institute of Technology (VIT University)
+12,Shivani Chavan,MCS Computer Science,Fall 2021,University of Ottawa,,Electronics and Communication Engineering,,74.00%,Savitribai Phule Pune University (Formerly University of Pune)
+13,Ravi Kiran Krovvidi,MCS Computer Science,Fall 2021,University of Ottawa,8,Information Technology,CGPA,9.06,guru tegh bahadur institute of technology
+14,Kritu Patel,MCS Computer Science,Spring 2021,University of Ottawa,7.5,Computer Science,,87.00%,SRM University (Kattankulathur Campus)
+15,Nihal Antony,MCS Computer Science,Fall 2020,University of Ottawa,8.5,Computer Science,CGPA,9.28,BMS College Of Engineering
+16,.,MCS Computer Science,Fall 2021,University of Ottawa,7.5,Computer Science,,86.00%,"SRM University (Modinagar Campus), Ghaziabad, U.P."
+17,Tejas Khare,MCS Computer Science,Fall 2021,University of Ottawa,,Electronics and Communication Engineering,CGPA,9.20,MIT WPU
+18,Navya Krishna,MCS Computer Science,Fall 2021,University of Ottawa,6,Computer Science,CGPA,9.53,kluniversity
+19,Aaryan Arora,MCS Computer Science,Fall 2021,University of Ottawa,8,Computer Science,CGPA,9.70,IIT Mumbai
+20,Himani Jain,MCS Computer Science,Fall 2021,University of Ottawa,,Computer Science,CGPA,9.12,VIT University
+21,Hema Carolin,MCS Computer Science,Fall 2021,University of Ottawa,7.5,Computer Science,CGPA,9.84,CVR College Of Engineering
+22,Jitesh Udaya,MCS Computer Science (Applied Artificial Intelligence),Spring 2021,University of Ottawa,,Computer Science,CGPA,9.31,Lovely Professional University
+23,Sunita Chhabra,MCS Computer Science,Spring 2020,University of Ottawa,7.5,Information Technology,CGPA,9.10,guru tegh bahadur institute of technology
+24,Meghna Bhattacharya,MCS Computer Science,Fall 2020,University of Ottawa,7.5,Electrical and Electronics Engineering,CGPA,7.30,Birla Institute of Technology (BIT Mesra)
+25,A B,MCS Computer Science,Fall 2020,University of Ottawa,,Computer Science,CGPA,9.12,"BITS Pilani, Dubai"
+26,Karan Davey,MCS Computer Science,Fall 2020,University of Ottawa,8,Computer Science,CGPA,8.63,SRM University (Kattankulathur Campus)
+27,Raghav Murali,MCS Computer Science,Fall 2020,University of Ottawa,8,Information Technology,CGPA,9.46,SRM University (Kattankulathur Campus)
+28,Anjali Thomas,MCS Computer Science,Fall 2020,University of Ottawa,8,Computer Science,CGPA,9.10,Cochin university of science and technology
+29,Kumar Sri Chandra Bhaskar Adabala,MCS Computer Science,Fall 2019,University of Ottawa,,Computer Science,,81.71%,SRM University (Kattankulathur Campus)
+30,Anusha Kambhampati,MCS Computer Science,Fall 2020,University of Ottawa,7,Computer Science,CGPA,8.50,kluniversity
+31,Priyanka,MCS Computer Science,Spring 2020,University of Ottawa,7,Computer Science,,82.16%,gudlavalleru Engineering College
+32,Sonali K,MCS Computer Science,Fall 2020,University of Ottawa,7,Information Technology,CGPA,8.43,"National Institute of Technology Karnataka, Surathkal (NIT-K)"
+33,Arcane Okay,MCS Computer Science,,University of Ottawa,,,,,
+34,Dhanusha Yerubandi,MCS Computer Science,Fall 2019,University of Ottawa,7,Computer Science,CGPA,9.75,Anurag Group Of Institutions
+35,Prudhvi Raj Reddy,MCS Computer Science,Spring 2020,University of Ottawa,7.5,Computer Science,,83.00%,GITAM University
+36,Sneha Pullela,MCS Computer Science,Spring 2020,University of Ottawa,7.5,Computer Science,CGPA,9.10,SRM University (Vadapalani Campus)
+37,Gursimran Singh,MCS Computer Science,Fall 2019,University of Ottawa,7.5,Computer Science,CGPA,8.60,Netaji Shubas Institute of Technology
+38,Mona,MCS Computer Science,Spring 2019,University of Ottawa,7,Computer Science,,81.00%,"Meerut Institute of Engineering and Technology, Meerut"
+39,Revanth Reddy Nemtoor,MCS Computer Science,Fall 2019,University of Ottawa,6.5,Computer Science,,80.00%,University of Waterloo
+40,Simran Kaur,MCS Computer Science,Fall 2018,University of Ottawa,7.5,Computer Science,CGPA,8.83,SRM University (Kattankulathur Campus)
+41,Saneer Gera,MCS Computer Science,Fall 2018,University of Ottawa,7,Computer Science,CGPA,8.40,guru nanak dev university
+42,Dhaval Thakur,MCS Computer Science,Fall 2019,University of Ottawa,,Information Technology,CGPA,8.99,Vellore Institute of Technology (VIT University)
+43,Mihir Kelkar,MCS Computer Science,Fall 2019,University of Ottawa,,Computer Science,CGPA,8.71,"Datta Meghe College Of Engineering, Airoli"
+44,Erfan Hosseini,MCS Computer Science,Fall 2018,University of Ottawa,,Computer Science,,88.00%,Amirkabir university of technology
+45,Rajkumar Endla,MCS Computer Science,Fall 2018,University of Ottawa,,Computer Science,,75.00%,"Kakatiya University College of engineering and technology,warangal"
+46,Sahil Narula,MCS Computer Science,Fall 2018,University of Ottawa,7,Computer Science,CGPA,9.08,Vellore Institute of Technology (VIT University)
+47,Sam,MCS Computer Science,Fall 2017,University of Ottawa,,Computer Science,,74.15%,JNTU College of Engineering
+48,Shreesha,MCS Computer Science,Fall 2017,University of Ottawa,,Computer Science,,88.50%,Vellore Institute of Technology (VIT University)
+49,Ankur,MCS Computer Science,Fall 2017,University of Ottawa,7.5,Information Technology,,82.30%,GITAM University
+50,Shilpa,MCS Computer Science,Fall 2017,University of Ottawa,,Computer Science,CGPA,9.30,"The National Institute of Engineering, Mysooru"
